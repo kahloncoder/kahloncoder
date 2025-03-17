@@ -18,4 +18,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=kahloncoder&icon=0&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://raw.githubusercontent.com/kahloncoder/kahloncoder/output/snake.svg" alt="Snake animation" />
+
+###<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
